@@ -1,0 +1,13 @@
+.text-green {
+  color: rgb(78, 255, 78);
+}
+.box {
+  max-width: 15rem;
+  margin: 2rem auto;
+  border-radius: 20px;
+  padding: 0.2em;
+  border: 1px solid #000;
+}
+.bg-blue {
+  background-color: blue;
+}
